@@ -824,7 +824,28 @@ LANGUAGE.controls_nuclear_terror        = ""
 LANGUAGE.controls_poison_anomaly        = ""
 LANGUAGE.controls_gonarch               = ""
 LANGUAGE.controls_tickledecimator       = ""
-
+-- Gun names
+LANGUAGE.wep_inferno = {
+    [1] = {
+        Name = "'Inferno' Aug",
+        Description = ""
+    },
+    [2] = {
+        Name = "'Inferno' Aug +1",
+        Description = ""
+    },
+    [3] = {
+         Name = "'Inferno' Aug +2",
+        Description = ""
+    },
+    [4] = {
+         Name = "'Inferno' Aug +3",
+        Description = ""
+ }
+}
+--Gun description 
+--Skill names
+--Skill description
 -- The help file... Quite big! I wouldn't blame you if you didn't translate this part.
 LANGUAGE.help_cat_introduction      = "Introduction" --"介绍"
 LANGUAGE.help_cat_survival          = "Survival" --"生存"
