@@ -824,22 +824,6 @@ LANGUAGE.controls_nuclear_terror        = ""
 LANGUAGE.controls_poison_anomaly        = ""
 LANGUAGE.controls_gonarch               = ""
 LANGUAGE.controls_tickledecimator       = ""
--- Gun names
-LANGUAGE.wep_zs_owens={
-  [1]={ 
-        Name="'owens' USP手枪",
-        Description="一种精度稍低的手枪，发射两发子弹，造成可观的总伤害。"
-},[2]={
-        Name="'jay' USP手枪",
-        Description="射速慢、更准确、更具破坏性的爆发射击。具有更高的弹匣容量和爆头倍率。打中同一只僵尸两次会生成一罐苏打水。"
-},[3]={
-        Name="'Evans' USP手枪",
-        Description="射速较慢，精度较低，伤害小，消耗全部弹药，从一颗子弹开始。如果所有子弹都命中，最多可获得3发子弹。如果一枪没打中，则失去所有多余的子弹。射击延迟根据发射的子弹数量而增加。"
-}
-}
---Gun description 
---Skill names
---Skill description
 -- The help file... Quite big! I wouldn't blame you if you didn't translate this part.
 LANGUAGE.help_cat_introduction      = "Introduction" --"介绍"
 LANGUAGE.help_cat_survival          = "Survival" --"生存"
