@@ -134,6 +134,15 @@ LANGUAGE.wep_zs_peashooter={
 }
 }
  
+LANGUAGE.wep_zs_stinger={
+        [1]={ 
+            Name="'stinger' 电塔",
+            Description="对任何进入附近的僵尸进行攻击，优先处理并立即杀死猎头蟹。充电时间长，使用脉冲弹药。"
+    },[2]={
+            Name="'thorn' shocker",
+            Description="Fires a longer range lightning projectile with more damage, but deals less slow."
+    }
+    }
 
 -- Tier 2
 -- Tier 3
