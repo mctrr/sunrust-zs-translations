@@ -133,7 +133,7 @@ LANGUAGE.wep_zs_peashooter={
         Description="射击速度快，精度反转，伤害小。命中获得速度增益。增益期间伤害增加。"
 }
 }
-
+ 
 
 -- Tier 2
 -- Tier 3
