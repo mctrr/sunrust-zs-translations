@@ -1,6 +1,5 @@
--- ZOMBIE CLASSES, BOSSTIER, DESCRIPTION, CONTROLS
-
 translate.AddLanguage("en", "English")
+-- ZOMBIE CLASSES, BOSSTIER, DESCRIPTION, CONTROLS
 
 -- Class names
 LANGUAGE.class_zombie                                 = "Zombie"
@@ -76,6 +75,7 @@ LANGUAGE.class_headcrab_hatchling                     = "Headcrab Hatchling"
 LANGUAGE.class_ice_fiend                              = "Ice Fiend"
 LANGUAGE.class_riot_zombie                            = "Riot Zombie"
 LANGUAGE.class_enforcer                               = "Enforcer"
+LANGUAGE.class_bully                                  = "Bully"
 LANGUAGE.class_incinerator                            = "Incinerator"
 
 -- Special Class
@@ -115,8 +115,12 @@ LANGUAGE.class_witheredghoul                          = "Withered Ghoul"
 LANGUAGE.class_poltergheist                           = "Poltergheist"
 LANGUAGE.class_mummy                                  = "Mummy"
 LANGUAGE.class_gorefiend                              = "Gore Fiend"
+LANGUAGE.class_goreslicer                             = "Gore Slicer"
+LANGUAGE.class_goreripper                             = "Gore Ripper"
+LANGUAGE.class_organharvester                         = "Organ Harvester"
 LANGUAGE.class_zombie_gunner                          = "Zombie Gunner"
 LANGUAGE.class_bones                                  = "Bones"
+LANGUAGE.class_gangmare                               = "Gangmare"
 LANGUAGE.class_war_ghoul                              = "War Ghoul"
 LANGUAGE.class_zombie_shotgunner                      = "Zombie Shotgunner"
 

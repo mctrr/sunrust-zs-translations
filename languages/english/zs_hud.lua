@@ -1,9 +1,8 @@
+translate.AddLanguage("en", "English")
 -- HUD/PANEL IN GENERAL
 
 -- SHOP, HUMAN/ZOMBIE HUD, SKILLS, REMANTLER, ALCHEMY, INVENTORY, OPTIONS, DATABASE
 -- F1, SPECTATOR, ETC
-
-translate.AddLanguage("en", "English")
 
 -- Spawn Options
 LANGUAGE.spawn_options                              = "Spawn Options"

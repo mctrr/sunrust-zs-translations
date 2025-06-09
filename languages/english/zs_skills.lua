@@ -1,3 +1,4 @@
+translate.AddLanguage("en", "English")
 -- TRAITS / SKILLS, NAME, DESCRIPTION, UPSIDES, DOWNSIDES,
 -- GAMEMODES: PS, SANDBOX, ETC.
 

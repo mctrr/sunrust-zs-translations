@@ -1,6 +1,5 @@
--- NOTIFICATIONS IN GENERAL
-
 translate.AddLanguage("en", "English")
+-- NOTIFICATIONS IN GENERAL
 
 -- Objective Mode unlocks
 LANGUAGE.class_not_unlocked_yet_unlocked_in_x               = "That class is not unlocked yet. It will be unlocked in %s."

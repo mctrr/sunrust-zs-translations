@@ -1,6 +1,5 @@
--- NOTIFICATIONS IN GENERAL
-
 translate.AddLanguage("en", "English")
+-- NOTIFICATIONS IN GENERAL
 
 -- HUMAN GENERAL
 LANGUAGE.you_redeemed                                        = "You have redeemed!"
@@ -220,4 +219,4 @@ LANGUAGE.impossible                                          = "Impossible."
 LANGUAGE.point_lost                                          = "The %s has been lost!"
 LANGUAGE.point_won                                           = "The %s has been captured!"
 LANGUAGE.point_spawn                                         = "The %s has arrived!"
-LANGUAGE.capture_progress                                    = "%s - %s/%s Captured"
+LANGUAGE.capture_progress                                    = "%s | %s/%s [%s%%]"
